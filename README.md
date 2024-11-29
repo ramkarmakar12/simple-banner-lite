@@ -32,5 +32,3 @@ The code made sort of modular by keeping files in different folders.
 
 The plugin is created and maintained by me.
 
-### Deployment
-
