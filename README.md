@@ -37,7 +37,7 @@ Simple Banner Lite/\
 ├── templates/\
 │   └── banner.php            (HTML template for the banner)\
 ├── tests/\
-│   └── test-banner.php       (unit test case for the banner)\
+│   └── test-banner.php       (unit test case for the banner)
 
 
 ### Unit tests
