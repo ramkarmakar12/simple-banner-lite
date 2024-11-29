@@ -6,7 +6,7 @@ This plugin is made for wordpress site to add announcement banner in the site.
 ## Getting Ahead
 
 Prerequisite:
-Must have a wordpress site hosted or built on local server using : https://localwp.com/
+Must have a wordpress site hosted or built on local server using : https://localwp.com/\
 Have Access to the database and admin panel of the site
 
 In the wordpress project admin directory, you can run:
@@ -23,12 +23,22 @@ On clicking on it redirects to the settigs where we can modify and banner and it
 
 The plugin created and tested on Local server created on localwp.
 
+### Unit tests
+
+The unit testcases tested against the basic functionalty of the plugin and ran with  `phpunit` with composer.\
+
+### Architechtural Diagram
+
+Used eraser.io for TDD and diagram for the plugin workflow with a generic workflow for creating a wordpress plugin.\
+Access it here : https://app.eraser.io/workspace/3qKs3VS8utMcYqNn3KlI
+
 
 ### Code Splitting
 
-The code made sort of modular by keeping files in different folders.
+The code made sort of modular by keeping files in different folders.\
 
 ### Making a Progressive Web App
 
-The plugin is created and maintained by me.
+The plugin is created and maintained by me.\
+Added readme.text file to submit it to wordpress plugin repo.
 
