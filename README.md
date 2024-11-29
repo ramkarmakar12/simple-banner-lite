@@ -23,6 +23,21 @@ On clicking on it redirects to the settigs where we can modify and banner and it
 
 The plugin created and tested on Local server created on localwp.
 
+### Folder structure
+
+Simple Banner Lite/
+├── Simple-banner-ite.php  (Main plugin file)
+├── assets/
+│   ├── css/
+│   │   └── style.css         (Custom CSS for the banner)
+│   ├── js/
+│   │   └── script.js         (Custom JavaScript for dynamic behavior)
+├── includes/
+│   └── settings-page.php     (Settings page logic)
+├── templates/
+│   └── banner.php            (HTML template for the banner)
+
+
 ### Unit tests
 
 The unit testcases tested against the basic functionalty of the plugin and ran with  `phpunit` with composer.\
