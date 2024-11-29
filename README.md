@@ -25,17 +25,19 @@ The plugin created and tested on Local server created on localwp.
 
 ### Folder structure
 
-Simple Banner Lite/
-├── Simple-banner-ite.php  (Main plugin file)
-├── assets/
-│   ├── css/
-│   │   └── style.css         (Custom CSS for the banner)
-│   ├── js/
-│   │   └── script.js         (Custom JavaScript for dynamic behavior)
-├── includes/
-│   └── settings-page.php     (Settings page logic)
-├── templates/
-│   └── banner.php            (HTML template for the banner)
+Simple Banner Lite/\
+├── Simple-banner-ite.php  (Main plugin file)\
+├── assets/\
+│   ├── css/\
+│   │   └── style.css         (Custom CSS for the banner)\
+│   ├── js/\
+│   │   └── script.js         (Custom JavaScript for dynamic behavior)\
+├── includes/\
+│   └── settings-page.php     (Settings page logic)\
+├── templates/\
+│   └── banner.php            (HTML template for the banner)\
+├── tests/\
+│   └── test-banner.php       (unit test case for the banner)\
 
 
 ### Unit tests
